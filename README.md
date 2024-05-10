@@ -1,4 +1,4 @@
-how to use in Google colab : 
+How to use in Google colab : 
 
 first  : the get Access token your on kaggle , it comes from the personal page
 
